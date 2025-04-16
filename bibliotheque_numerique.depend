@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1742908741 source:c:\users\asus\documents\bibliotheque_numerique\main.cpp
+	"utilisateur.h"
+	<iostream>
+
+1744065699 c:\users\asus\documents\bibliotheque_numerique\utilisateur.h
+	<iostream>
+
+1744057643 source:c:\users\asus\documents\bibliotheque_numerique\utilisateur.cpp
+	"utilisateur.h"
+	<iostream>
+
+1744064836 source:c:\users\asus\documents\bibliotheque_numerique\administrateur.cpp
+	"administrateur.h"
+	<iostream>
+
+1744064809 c:\users\asus\documents\bibliotheque_numerique\administrateur.h
+	"utilisateur.h"
+	<vector>
+	<string>
+	<iostream>
+
+1744064938 source:c:\users\asus\documents\bibliotheque_numerique\gestionnaire.cpp
+	"gestionnaire.h"
+	<iostream>
+
+1744064888 c:\users\asus\documents\bibliotheque_numerique\gestionnaire.h
+	"utilisateur.h"
+	<vector>
+	<string>
+	<iostream>
+
+1744065911 source:c:\users\asus\documents\bibliotheque_numerique\chef_bibliotheque.cpp
+	"chef_bibliotheque.h"
+	<iostream>
+
+1744065399 c:\users\asus\documents\bibliotheque_numerique\chef_bibliotheque.h
+	"administrateur.h"
+	"gestionnaire.h"
+	<iostream>
+	<vector>
+	<string>
+
